@@ -7,7 +7,7 @@ hello:
 
 greeting:
   hello: Hello, World!!!
-  message: Hey there!!!
+  message: Hey world
 
 dummy:
   property: some value tweaked
