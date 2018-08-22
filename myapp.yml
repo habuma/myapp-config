@@ -6,4 +6,4 @@ spring:
   profiles: cloud
   
 foo:
-  bar: Hello there, D.C.!
+  bar: Hello there, Gogs
