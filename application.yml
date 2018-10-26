@@ -3,10 +3,10 @@ myapp:
   password: s3cr3t
 
 hello:
-  message: Hello World!!!
+  message: Hello World (SIDE)!!!
 
 greeting:
-  hello: Hello, World!!!
+  hello: Hello, World (SIDE)!!!
   message: Hiya!
 
 dummy:
@@ -14,7 +14,7 @@ dummy:
 ---
 spring:
   profiles: local
-  
+
 eureka:
   client:
     serviceUrl:
@@ -26,6 +26,6 @@ spring:
 
 foo:
   bar: Profile test
-  
+
 hello:
   message: Hello cloud (DEFAULT APP)
