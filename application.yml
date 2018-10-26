@@ -10,7 +10,7 @@ greeting:
   message: Hiya!
 
 dummy:
-  property: some value tweaked
+  property: some value from the sidework branch
 ---
 spring:
   profiles: local
