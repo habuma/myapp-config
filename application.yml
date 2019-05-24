@@ -3,14 +3,14 @@ myapp:
   password: s3cr3t
 
 hello:
-  message: Hello World!!!
+  message: Hello World!!!!
 
 greeting:
   hello: Hello, World!!!
-  message: Hiya!
+  message: Hiya!!!
 
 demo:
-  property: SIMPLE VALUE
+  property: SIMPLE VALUE!
 
 dummy:
   property: some value tweaked
