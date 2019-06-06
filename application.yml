@@ -8,7 +8,7 @@ hello:
 
 greeting:
   hello: Hello, World!!!
-  message: Hiya!!!
+  message: Hi there!!!
 
 demo:
   property: SIMPLE VALUE!
