@@ -14,7 +14,7 @@ demo:
   property: SIMPLE VALUE!
 
 dummy:
-  property: some value tweaked again
+  property: some value tweaked yet again
 ---
 spring:
   profiles: local
