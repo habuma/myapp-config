@@ -18,7 +18,7 @@ dummy:
   
 logging:
   level:
-    org.mongodb.driver: INFO
+    org.mongodb.driver.operation: INFO
 ---
 spring:
   profiles: local
