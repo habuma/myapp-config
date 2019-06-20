@@ -1,6 +1,9 @@
 hello:
   message: Hello, Reston NFJS!!!
 
+logging:
+  level:
+    org.mongodb.driver: INFO
 ---
 spring:
   profiles: cloud
