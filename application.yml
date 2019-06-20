@@ -15,6 +15,10 @@ demo:
 
 dummy:
   property: some value tweaked yet again once more
+  
+logging:
+  level:
+    org.mongodb.driver: INFO
 ---
 spring:
   profiles: local
