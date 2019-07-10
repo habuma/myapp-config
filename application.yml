@@ -11,7 +11,7 @@ greeting:
   message: Hi there!!!
 
 demo:
-  property: Changed again for another refresh
+  property: Changing again...for the fourth time.
 
 dummy:
   property: some value tweaked yet again once more
