@@ -11,10 +11,10 @@ greeting:
   message: Hi there!!!
 
 demo:
-  property: Eighth time's a charm...
+  property: Nine nine nine nine
 
 dummy:
-  property: some value tweaked yet again once more
+  property: yo dawg
   
 logging:
   level:
