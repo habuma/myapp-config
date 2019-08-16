@@ -7,7 +7,7 @@ hello:
   message: Hello World!!!!
 
 identity:
-  name: Peter Parker
+  name: Tony Stark
 
 greeting:
   hello: Hello, World!!!
