@@ -6,6 +6,9 @@ myapp:
 hello:
   message: Hello World!!!!
 
+identity:
+  name: Peter Parker
+
 greeting:
   hello: Hello, World!!!
   message: Hi there!!!
