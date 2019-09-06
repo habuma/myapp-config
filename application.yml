@@ -16,7 +16,7 @@ greeting:
   message: Hello, refresh test three!!!
 
 demo:
-  property: "Ten: 10"
+  property: 'Ten: 10'
 
 dummy:
   property: yo dawg
