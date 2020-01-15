@@ -1,0 +1,7 @@
+some:
+  property:
+    from:
+      app:
+        specific:
+          path: Some value
+          
