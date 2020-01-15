@@ -3,5 +3,5 @@ myapp:
   password: letmein01
 
 hello:
-  message: Yo!
+  message: Hello from 2020!
 
