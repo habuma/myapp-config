@@ -7,7 +7,7 @@ hello:
 
 greeting:
   hello: Hello, World (SIDE)!!!
-  message: Hiya!
+  message: Hiya (from the side)!
 
 dummy:
   property: some value from the sidework branch
