@@ -12,14 +12,14 @@ identity:
 tweaked: Seven
 
 greeting:
-  hello: Hello, World!!!
-  message: Hello, refresh test FIVE!!!
+  hello: Hello, World!
+  message: Hello, refresh test SIX?
 
 demo:
   property: 'Ten: 10'
 
 dummy:
-  property: yo dawg
+  property: hello friend
   
 logging:
   level:
