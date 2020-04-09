@@ -7,7 +7,7 @@ hello:
   message: Hello World!
 
 identity:
-  name: Stan Lee
+  name: Steve Rogers
   
 tweaked: Seven
 
