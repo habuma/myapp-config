@@ -1,5 +1,8 @@
 hello:
-  message: Hello, Reston NFJS!!!
+  message: Hello, all!!!
+  
+greeting:
+  message: Hi folks!
 
 logging:
   level:
