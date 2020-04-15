@@ -13,7 +13,7 @@ tweaked: Seven
 
 greeting:
   hello: Hello, World!
-  message: Ten 10 ten!
+  message: Hi there!
 
 demo:
   property: 'Ten: 10'
