@@ -3,7 +3,7 @@ myapp:
   password: s3cr3t
 
 hello:
-  message: Hello World (SIDE)!!!
+  message: Hello World (from the SIDE)!!!
 
 greeting:
   hello: Hello, World (SIDE)!!!
