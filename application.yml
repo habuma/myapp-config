@@ -6,7 +6,7 @@ hello:
   message: Hello World (from the SIDE)!!!
 
 greeting:
-  hello: Hello, World (SIDE)!!!
+  hello: Hola, World (SIDE)!!!
   message: Hiya (from the side)!
 
 dummy:
