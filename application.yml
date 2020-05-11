@@ -4,7 +4,7 @@ myapp:
   anotherProperty: so there
 
 hello:
-  message: Hello World!
+  message: Hello World!!
 
 identity:
   name: Bruce Banner
