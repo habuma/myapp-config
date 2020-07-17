@@ -3,6 +3,9 @@ myapp:
   password: s3cr3t
   anotherProperty: so there
 
+refresh:
+  tweak: Tweak One
+
 hello:
   message: Hello World!!
 
