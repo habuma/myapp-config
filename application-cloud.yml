@@ -1,11 +1,3 @@
 baby:
   yoda:
     name: Grogu
-
----
-spring:
-  profiles: another
-  
-baby:
-  yoda:
-    name: Baby Yoda
