@@ -45,3 +45,10 @@ foo:
   
 hello:
   message: Hello cloud (DEFAULT APP)
+---
+spring:
+  profiles: cloud, local, anotherProfile
+  
+what:
+  is:
+    up: dawg
