@@ -47,7 +47,7 @@ hello:
   message: Hello cloud (DEFAULT APP)
 ---
 spring:
-  profiles: cloud, local, anotherProfile
+  profiles: local, anotherProfile, cloud, thisIsTheWay
   
 what:
   is:
