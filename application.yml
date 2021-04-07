@@ -20,7 +20,7 @@ just:
 
 greeting:
   hello: Hello, World!
-  message: Hello refreshed world!
+  message: Hello REFRESHED world!
 
 demo:
   property: 'Ten: 10'
