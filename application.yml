@@ -31,6 +31,11 @@ dummy:
 logging:
   level:
     org.mongodb.driver.operation: INFO
+    
+dont:
+  tell:
+    my:
+      secret: {cipher} abcdefg
 ---
 spring:
   profiles: local
