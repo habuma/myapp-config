@@ -35,7 +35,7 @@ logging:
 dont:
   tell:
     my:
-      secret: '{cipher} abcdefg'
+      secret: '{cipher}404685cfba553e47d5b687f4a2a4c3d7d04e15524bf481b98e298cdd414143398cc2e94465d90b62db505fded0c3dc6e'
 ---
 spring:
   profiles: local
