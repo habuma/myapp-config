@@ -1,3 +1,6 @@
+cook:
+  special: Yummy tacos
+  
 myapp:
   who: GitHub configuration repository!!!
   password: s3cr3t
