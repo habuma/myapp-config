@@ -4,7 +4,7 @@ myapp:
   anotherProperty: so there
 
 refresh:
-  tweak: Tweak Three
+  tweak: Tweak Four
 
 hello:
   message: Hello World!!
