@@ -2,6 +2,10 @@ encryption:
   test:
     property: '{cipher}f0d2bbbe8621b471988a6fea3ac7213afaff8c692a4be444749e577163304a44'
 
+fluxcd:
+  arbitrary:
+    property: just a test
+
 management:
   endpoints:
     web:
