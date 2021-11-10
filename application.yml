@@ -20,7 +20,7 @@ management:
 #     enabled: false
 
 myapp:
-  who: GitHub configuration repository!!!
+  who: GitHub configuration repository!!
   password: s3cr3t
   anotherProperty: so there
 
