@@ -4,7 +4,7 @@ encryption:
 
 fluxcd:
   arbitrary:
-    property: just another test!!!
+    property: just another test!!!!
 
 management:
   endpoints:
