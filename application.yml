@@ -13,11 +13,15 @@ fluxcd:
 #       - that
 #       - the other thing
 
+
 management:
   endpoints:
     web:
       exposure:
-        include: '*'
+        include:
+        - env
+        - health
+        - info
   endpoint:
     health:
       show-details: always
