@@ -6,6 +6,13 @@ fluxcd:
   arbitrary:
     property: just another test!!!
 
+indexed:
+  array:
+    property:
+      - this
+      - that
+      - the other thing
+
 management:
   endpoints:
     web:
