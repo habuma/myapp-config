@@ -1,6 +1,6 @@
-# encryption:
-#   test:
-#     property: '{cipher}f0d2bbbe8621b471988a6fea3ac7213afaff8c692a4be444749e577163304a44'
+encryption:
+  test:
+    property: '{cipher}f0d2bbbe8621b471988a6fea3ac7213afaff8c692a4be444749e577163304a44'
 
 fluxcd:
   arbitrary:
@@ -64,15 +64,15 @@ logging:
   level:
     org.mongodb.driver.operation: INFO
     
-# dont:
-#   tell:
-#     my:
-#       secret: '{cipher}404685cfba553e47d5b687f4a2a4c3d7d04e15524bf481b98e298cdd414143398cc2e94465d90b62db505fded0c3dc6e'
+dont:
+  tell:
+    my:
+      secret: '{cipher}404685cfba553e47d5b687f4a2a4c3d7d04e15524bf481b98e298cdd414143398cc2e94465d90b62db505fded0c3dc6e'
       
-# another:
-#   super:
-#     secret:
-#       property: '{cipher}AQCj2yA5vTdWxWQSug4lXW1kmpTsB3xnuLweEt4BmTQT5zlkB72lr/vTmKu1urPYLIuRllC7coUFc0VHtaPJOFOuLSGtXYwwi9BZkoxQMY3+MlXvA6aOvNYGyMmgr3muVxjxsBH7EqGX5txextrcTGO6dAAOxsK5cmUNmH6M9R91MmLvzuWQdvn0bmW8M1ORlH3yicIyrt4pCaKdeDnXU1VOYeRrjDP4Uby3M0feYIpb1cMojYb95opV5R1oO3+YECWjO/h1HZ+jSgU6t5JMkLxemyM/mXzH+HDGeyIz5hlnQ9MXnS8A3qnC68qYabxOlyYGMdfUmcRozQI8flPFYxeGb4Yq9vdKWSEi83MaOuuQMX8ATqkGME5YWyhG+7yd6Hs3k9VFaIbWHQT+Mv99Ows4'
+another:
+  super:
+    secret:
+      property: '{cipher}AQCj2yA5vTdWxWQSug4lXW1kmpTsB3xnuLweEt4BmTQT5zlkB72lr/vTmKu1urPYLIuRllC7coUFc0VHtaPJOFOuLSGtXYwwi9BZkoxQMY3+MlXvA6aOvNYGyMmgr3muVxjxsBH7EqGX5txextrcTGO6dAAOxsK5cmUNmH6M9R91MmLvzuWQdvn0bmW8M1ORlH3yicIyrt4pCaKdeDnXU1VOYeRrjDP4Uby3M0feYIpb1cMojYb95opV5R1oO3+YECWjO/h1HZ+jSgU6t5JMkLxemyM/mXzH+HDGeyIz5hlnQ9MXnS8A3qnC68qYabxOlyYGMdfUmcRozQI8flPFYxeGb4Yq9vdKWSEi83MaOuuQMX8ATqkGME5YWyhG+7yd6Hs3k9VFaIbWHQT+Mv99Ows4'
 ---
 spring.config.activate.on-profile: local
   
