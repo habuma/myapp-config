@@ -6,22 +6,22 @@ fluxcd:
   arbitrary:
     property: just another test!!!
 
-# indexed:
-#   array:
-#     property:
-#       - this
-#       - that
-#       - the other thing
+indexed:
+  array:
+    property:
+      - this
+      - that
+      - the other thing
 
 
 management:
-#   endpoints:
-#     web:
-#       exposure:
-#         include:
-#         - env
-#         - health
-#         - info
+  endpoints:
+    web:
+      exposure:
+        include:
+        - env
+        - health
+        - info
   endpoint:
     health:
       show-details: always
