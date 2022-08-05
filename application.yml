@@ -15,13 +15,13 @@ indexed:
 
 
 management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        - env
-        - health
-        - info
+#   endpoints:
+#     web:
+#       exposure:
+#         include:
+#         - env
+#         - health
+#         - info
   endpoint:
     health:
       show-details: always
