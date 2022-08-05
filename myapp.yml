@@ -2,7 +2,7 @@ hello:
   message: Hello, all!!!
   
 greeting:
-  message: Hi folks!
+  message: Hi folks!!!!!
 
 logging:
   level:
