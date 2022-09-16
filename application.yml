@@ -1,6 +1,6 @@
 encryption:
   test:
-    property: '{cipher}f0d2bbbe8621b471988a6fea3ac7213afaff8c692a4be444749e577163304a44'
+    property: '{cipher}d588d74ea872644e73a7288cf5d14fb2977fb340673fd1612dc9ad5c7429cd01'
 
 fluxcd:
   arbitrary:
