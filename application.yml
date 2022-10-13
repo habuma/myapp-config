@@ -85,6 +85,12 @@ eureka:
 ---
 spring.config.activate.on-profile: cloud
 
+greeting:
+  message: Hello, Tanzu Application Platform!
+
+---
+spring.config.activate.on-profile: cloud
+
 foo:
   bar: Profile test
   
