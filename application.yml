@@ -17,7 +17,6 @@ indexed:
       
 test:
   change: false
-  interval: false
 
 
 management:
