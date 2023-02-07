@@ -16,7 +16,7 @@ indexed:
       - the other thing
       
 test:
-  change: false
+  change: xyz
 
 
 management:
