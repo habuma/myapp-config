@@ -6,7 +6,7 @@ encryption:
 
 fluxcd:
   arbitrary:
-    property: just another test!!!
+    property: just another test!!!!
 
 indexed:
   array:
@@ -16,7 +16,7 @@ indexed:
       - the other thing
       
 test:
-  change: abc
+  change: def
 
 
 management:
