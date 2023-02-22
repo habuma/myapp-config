@@ -15,15 +15,14 @@ indexed:
       - that
       - the other thing
 
-cloud:
-  discovery:
-    client:
-      simple:
-        instances:
-          service-1:
-            - uri: http://service-1
-          service-2:
-            - uri: http://service-2.my-namespace.service.cluster.local
+some:
+  array:
+    of:
+      objects:
+      - name: object1
+        uri: https://localhost:8080
+      - name: object2
+        uri: https://localhost:8888
 
 
 test:
