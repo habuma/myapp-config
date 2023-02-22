@@ -14,7 +14,18 @@ indexed:
       - this
       - that
       - the other thing
-      
+
+cloud:
+  discovery:
+    client:
+      simple:
+        instances:
+          service-1:
+            - uri: http://service-1
+          service-2:
+            - uri: http://service-2.my-namespace.service.cluster.local
+
+
 test:
   change: ghi
 
