@@ -15,6 +15,19 @@ indexed:
       - that
       - the other thing
 
+spring:
+  cloud:
+    discovery:
+      client:
+        simple:
+          instances:
+          - location-translator:
+              uri: http://location-translator
+            atm:
+              uri: http://atm
+            branch:
+              uri: http://branch
+
 some:
   array:
     of:
