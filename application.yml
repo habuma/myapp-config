@@ -15,18 +15,24 @@ indexed:
       - that
       - the other thing
 
+eureka:
+  client:
+    enabled: false
 spring:
+  config:
+    activate:
+      on-cloud-platform: "kubernetes"
   cloud:
     discovery:
       client:
         simple:
           instances:
-          - location-translator:
-              uri: http://location-translator
+            location-translator:
+             - uri: http://location-translator
             atm:
-              uri: http://atm
+             - uri: http://atm
             branch:
-              uri: http://branch
+             - uri: http://branch
 
 some:
   array:
