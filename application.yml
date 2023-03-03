@@ -41,39 +41,3 @@ another:
   super:
     secret:
       property: '{cipher}AQCj2yA5vTdWxWQSug4lXW1kmpTsB3xnuLweEt4BmTQT5zlkB72lr/vTmKu1urPYLIuRllC7coUFc0VHtaPJOFOuLSGtXYwwi9BZkoxQMY3+MlXvA6aOvNYGyMmgr3muVxjxsBH7EqGX5txextrcTGO6dAAOxsK5cmUNmH6M9R91MmLvzuWQdvn0bmW8M1ORlH3yicIyrt4pCaKdeDnXU1VOYeRrjDP4Uby3M0feYIpb1cMojYb95opV5R1oO3+YECWjO/h1HZ+jSgU6t5JMkLxemyM/mXzH+HDGeyIz5hlnQ9MXnS8A3qnC68qYabxOlyYGMdfUmcRozQI8flPFYxeGb4Yq9vdKWSEi83MaOuuQMX8ATqkGME5YWyhG+7yd6Hs3k9VFaIbWHQT+Mv99Ows4'
----
-spring:
-  profiles: local
-  
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
-
----
-spring:
-  profiles: cloud
-
-foo:
-  bar: Profile test
-  
-hello:
-  message: Hello cloud (DEFAULT APP)
----
-spring:
-  profiles: local, anotherProfile, cloud, thisIsTheWay
-  
-what:
-  is:
-    up: dawg
----
-spring:
-  profiles:
-  - one
-  - two
-  - cloud
-  - four
-  
-once:
-  more:
-    with: feeling
