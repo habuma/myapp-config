@@ -19,9 +19,6 @@ eureka:
   client:
     enabled: false
 spring:
-  config:
-    activate:
-      on-cloud-platform: "kubernetes"
   cloud:
     discovery:
       client:
