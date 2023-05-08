@@ -1,6 +1,2 @@
 greeting:
-  message: Hello SOME APP
-
-a:
-  b:
-    c: 12345
+  message: Hello from SOME APP
