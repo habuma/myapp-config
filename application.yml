@@ -1,2 +1,2 @@
-greeting:
-  message: Hello from root directory
+test:
+  searchPaths: Hello from root directory
