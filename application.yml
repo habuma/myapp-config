@@ -15,21 +15,21 @@ indexed:
       - that
       - the other thing
 
-eureka:
-  client:
-    enabled: false
-spring:
-  cloud:
-    discovery:
-      client:
-        simple:
-          instances:
-            location-translator:
-             - uri: http://location-translator
-            atm:
-             - uri: http://atm
-            branch:
-             - uri: http://branch
+# eureka:
+#   client:
+#     enabled: false
+# spring:
+#   cloud:
+#     discovery:
+#       client:
+#         simple:
+#           instances:
+#             location-translator:
+#              - uri: http://location-translator
+#             atm:
+#              - uri: http://atm
+#             branch:
+#              - uri: http://branch
 
 some:
   array:
