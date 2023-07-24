@@ -7,6 +7,7 @@ encryption:
 fluxcd:
   arbitrary:
     property: just another test!!!!
+    anotherProperty: Does it resume refresh with this???
 
 indexed:
   array:
