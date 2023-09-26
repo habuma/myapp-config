@@ -3,9 +3,12 @@ baby:
     name: Grogu
 
 ---
-
 spring:
-  profiles: another
+  config:
+    activate:
+      on-profile: another
+# spring:
+#   profiles: another
   
 baby:
   yoda:
