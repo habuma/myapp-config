@@ -9,7 +9,11 @@ logging:
     org.mongodb.driver: INFO
 ---
 spring:
-  profiles: cloud
+  config:
+    activate:
+      on-profile: cloud
+# spring:
+#   profiles: cloud
   
 foo:
   bar: Hello there, Gogs
