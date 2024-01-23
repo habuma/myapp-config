@@ -1,3 +1,4 @@
-foo: 789
-bar: def
-baz: 321
+foo: 123
+bar: abc
+baz: 123
+greeting: hello
