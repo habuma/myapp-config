@@ -1,4 +1,4 @@
-foo: 123
+foo: 321
 bar: abc
-baz: 321
-greeting: goodbye
+baz: 123
+greeting: hello
