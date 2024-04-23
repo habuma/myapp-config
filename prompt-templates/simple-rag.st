@@ -4,8 +4,8 @@ accurate answers. If unsure or if the answer isn't found in the DOCUMENTS sectio
 simply state that you don't know the answer and do not mention the DOCUMENTS
 section.
 
-QUESTION:
-{input}
-
 DOCUMENTS:
 {documents}
+
+QUESTION:
+{input}
