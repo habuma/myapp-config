@@ -2,3 +2,4 @@ foo: EX WHY ZEE
 bar: abc
 baz: 123
 greeting: hello there!
+spring.cache.redis.time-to-live: 30s
