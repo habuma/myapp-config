@@ -1,5 +1,5 @@
 foo: MNO
 bar: abc
 baz: 123
-greeting: hello there!
+greeting: hiya!
 spring.cache.redis.time-to-live: 30s
