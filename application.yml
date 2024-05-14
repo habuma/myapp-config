@@ -2,4 +2,3 @@ foo: XYZ
 bar: cba
 baz: 123
 greeting: hiya!
-spring.cache.redis.time-to-live: 30s
