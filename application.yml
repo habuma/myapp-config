@@ -2,4 +2,4 @@ foo: bar
 bar: foo
 baz: 123
 greeting: Hi there!
-greeting.message: Hello
+greeting.message: Hello Spring!
