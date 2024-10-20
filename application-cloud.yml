@@ -2,7 +2,7 @@ baby:
   yoda:
     name: Grogu
 
-greeting.message: Hello Cloud Profile (where profile is determined by the filename) !!!
+# greeting.message: Hello Cloud Profile (where profile is determined by the filename) !!!
 
 
 ---
