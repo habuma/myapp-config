@@ -2,7 +2,7 @@ foo: bar
 bar: foo
 baz: 123
 greeting: Hi there!
-greeting.message: Hello Spring!
+greeting.message: Hello Default Profile!
 
 ---
 spring:
@@ -10,7 +10,7 @@ spring:
     activate:
       on-profile: cloud
 
-greeting.message: Hello Cloud!!!
+greeting.message: Hello Cloud Profile (where profile is determined by spring.config.activate.on-profile) !!!
 
 baby:
   yoda:
