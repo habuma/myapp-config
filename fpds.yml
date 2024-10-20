@@ -1,7 +1,7 @@
-spring:
-  config:
-    activate:
-      on-profile: cloud
+# spring:
+#   config:
+#     activate:
+#       on-profile: cloud
 
 greeting:
   message: Hello Cloud!
