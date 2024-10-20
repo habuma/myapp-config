@@ -11,3 +11,7 @@ spring:
       on-profile: cloud
 
 greeting.message: Hello Cloud!!!
+
+baby:
+  yoda:
+    name: Grogu
