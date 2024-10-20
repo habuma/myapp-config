@@ -6,12 +6,12 @@ greeting.message: Hello Cloud Profile (where profile is determined by the filena
 
 
 ---
-# spring:
-#   config:
-#     activate:
-#       on-profile: another
 spring:
-  profiles: another
+  config:
+    activate:
+      on-profile: another
+# spring:
+#   profiles: another
   
 baby:
   yoda:
