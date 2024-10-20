@@ -8,12 +8,12 @@ logging:
   level:
     org.mongodb.driver: INFO
 ---
-# spring:
-#   config:
-#     activate:
-#       on-profile: cloud
 spring:
-  profiles: cloud
+  config:
+    activate:
+      on-profile: cloud
+# spring:
+#   profiles: cloud
   
 foo:
   bar: Hello there, Gogs
